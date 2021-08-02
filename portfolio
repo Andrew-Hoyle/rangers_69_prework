@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<style>
+
+* {
+    box-sizing: border-box;
+}
+
+html {
+    text-align: center;
+    font-size: large;
+    background-color: rgba(243, 241, 233, 0.459);
+}
+
+body {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+header {
+    background-color: rgba(243, 239, 223, 0.897);
+    padding: 5px;
+    border: solid;
+}
+
+ul {
+    align-items: center;
+    padding: 15px;
+}
+
+</style>
+<title>Andrew Hoyle - Portfolio</title>
+</head>
+<body>
+<header>
+<h1>Andrew Hoyle</h1>
+<h4>Coding Temple</h4>
+<hr>
+</header>
+
+
+<ul>
+    <Menu>
+        <h3>Contact/Follow</h3>
+    <li> <a href="mailto:EMAILADDRESS">Contact:</a>
+        <span style='font: size 70px;'>&#9993;</span></li>
+    <li> <a href=https://www.facebook.com/leon.croi.1>Facebook</a></li>
+    <li> <a href=https://www.instagram.com/knockturnal_creations/>Instagram</a></li>
+    <li> <a href=https://soundcloud.com/andrew-hoyle-583504546>Soundcloud</a></li>
+</Menu>
+</ul>
+<hr>
+<img src="https://scontent-bos3-1.xx.fbcdn.net/v/t1.6435-9/116071364_1407784239419163_3146091696645002817_n.jpg?_nc_cat=111&amp;ccb=1-3&amp;_nc_sid=8bfeb9&amp;_nc_ohc=SJqteZMAu3oAX8_o4kd&amp;_nc_ht=scontent-bos3-1.xx&amp;oh=ce15d626ae1fc9a55e6019748b8eb4c2&amp;oe=612EC1C2" width="400" height="500">
+<img src="https://scontent-bos3-1.xx.fbcdn.net/v/t1.6435-9/96410078_1342559079275013_2438802930271256576_n.jpg?_nc_cat=103&amp;ccb=1-3&amp;_nc_sid=730e14&amp;_nc_ohc=ZydRJs-g4ygAX9M3yoM&amp;_nc_ht=scontent-bos3-1.xx&amp;oh=1dbfde9ce5dc70709b89de9045316171&amp;oe=612D4D00" width="400" height="500">
+<img src="https://scontent-bos3-1.xx.fbcdn.net/v/t1.6435-9/96736414_1342445112619743_8350908619616681984_n.jpg?_nc_cat=100&amp;ccb=1-3&amp;_nc_sid=8bfeb9&amp;_nc_ohc=GAC6WvYuA8UAX8Pr98N&amp;_nc_ht=scontent-bos3-1.xx&amp;oh=1dc8a3a805b92fa80aea2b1401d6760e&amp;oe=612EBAFF" width="400" height="500">
+<hr>
+<div class="box">
+<h2>Bio</h2>
+<hr>
+<p>Growing up in the Massachusetts punk rock and hardcore music scene means learning to thrive in a creative, intense, do-it-yourself environment.  A third hand Yamaha drum set and hours of sweat turned into a couple albums, a few small tours and two local spots on The Warped Tour by the age 22. A Broken down van in the middle of nowhere New England taught me to work on and maintain vehicles. That knowledge landed me a job working on cars, earning the money I needed for equipment to record my friends music and gain a small side gig.  Later on I would move to the sales side of the automotive service industry, but my interests led me to dive into the digital audio world, discovering a vast market of software and hardware technology. Of which some inspire endless sonic miracles; And others which have your teeth grinding through hours of tweaking to muster a poor approximation of the sound you are trying to manifest. Almost daily this effort leads on explorations through internet forums, communicating, learning from and sharing with peers.</p>
+<p>My life's course and interests have lead me to spend my happiest hours creating using different kinds of instruments and software. It has also lead me to communicating with countless far away peers who have helped me gain the knowledge I need to improve my craft. Internet technologies and computer programming's exponential rate of improvement has created a world where there are so many new ways everyday in which we innovate, create something incredible and share those creations.  I chose to invest in Coding Temple for not just the structure of a well thought out curriculum but for the collaborative team approach. Experience has shown me groups of people actually taking the initiative and pushing themselves to accomplishing something new usually do.</p>
+</div>
+
+</body>
+</html>
